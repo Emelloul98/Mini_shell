@@ -1,7 +1,3 @@
-Here's a README template for your Custom Shell Program in C:
-
----
-
 # Custom Shell Program in C
 
 This repository contains a custom shell program implemented in C. The shell provides functionalities similar to common Unix-like shell environments, including command execution, variable substitution, background processes, pipes, signal handling, and input/output redirection.
